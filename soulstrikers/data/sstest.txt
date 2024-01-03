@@ -1,0 +1,12 @@
+stat,score
+strength,18
+arcane,12
+survivability,4
+defence,1
+intelligence,19
+agility,9
+judgement,5
+charisma,7
+hp1,4
+hpPATRON,3
+hpHIVECORE,0

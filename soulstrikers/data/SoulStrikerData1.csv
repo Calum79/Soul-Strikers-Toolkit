@@ -1,0 +1,82 @@
+stat,score
+strength,15
+arcana,12
+survivability,11
+defence,13
+intelligence,11
+agility,11
+judgement,10
+charisma,10
+hp1,1
+hpPATRON,4
+hpHIVECORE,0
+animal handling,0
+athletics,0
+disguise,0
+history,0
+insight,0
+intimidation,0
+investigation,0
+medicine,0
+nature,0
+perception,0
+performance,0
+persuasion,0
+religion,20
+sleight of hand,0
+stealth,0
+bartering,0
+computers,0
+deception,0
+leadership,0
+faith,0
+translation,0
+shifter,0
+duelist,0
+artillerist,0
+pact,0
+warlock,0
+brute,0
+carnage,1
+strategist,0
+citizen,0
+devoutest,0
+peasant,0
+bounty hunter,0
+lab rat,0
+scientist,0
+thief,0
+folk hero,1
+military,0
+cursed,0
+peace keeper,0
+cultist,0
+con artist,0
+merchant,0
+spokesman,0
+innovator,0
+doctor,0
+detective,0
+terran,0
+elven,0
+cybr,1
+siren,0
+hound,0
+spectre,0
+fae,0
+warden,0
+hive,0
+gelatinous,0
+shrike,0
+planetarian,0
+vixen,0
+avtr,0
+celestite,0
+imp,0
+vultra,0
+race_type,cybr
+hit_dice,10
+movement,35
+weight_class,8
+archetype,carnage
+pantheon,folk hero
